@@ -1,0 +1,10 @@
+.hello{
+    color: brown;
+    font-display: 200px;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
