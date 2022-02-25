@@ -71,6 +71,6 @@
  Slack Profile - [Albright Sunguti](https://moringaclassroom.slack.com/team/U032HD2N1BR)
  
  Linked - [Albright Sunguti](https://www.linkedin.com/in/albright-sunguti-405102216/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BNh2x%2Bvb8SCC4Lxni8rynqg%3D%3D)
- * Twitter [Albright Sunguti](@bright_sunguti)
+ * Twitter [Albright Sunguti](https://twitter.com/bright_sunguti)
  
  [Go Back to the top](#portfolio)
